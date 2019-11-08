@@ -1,0 +1,42 @@
+
+<Router>
+<Navigation>
+  <Link to='/'>Home</Link>
+  <Link to='/tandartsen'>Tandartsen</Link>
+  <Link to='/assistenten'>Assistenten</Link>
+  <Link to='/patienten'>Patienten</Link>
+</Navigation>
+
+<Switch>
+  <Route
+    exact
+    path='/tandartsen'
+    render={(props) => (
+      <PraktijkOverview {...props} filter={'tandarts'}>
+        <ViewState />
+      </PraktijkOverview>
+    )}
+  />
+  <Route
+    exact
+    path='/assistenten'
+    render={(props) => (
+      <PraktijkOverview {...props} filter={'assistent'} />
+    )}
+  />
+  <Route
+    exact
+    path='/patienten'
+    render={(props) => (
+      <PraktijkOverview {...props} filter={'patient'} />
+    )}
+  />
+  <Route
+    exact
+    path='/'
+    render={(props) => (
+      <PraktijkOverview {...props} filter={'home'} />
+    )}
+  />
+</Switch>
+</Router>

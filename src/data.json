@@ -1,0 +1,3362 @@
+[
+    {
+        "name": "Evelyn",
+        "task": "SCRUM",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Evelyn",
+        "task": "W1D1-1",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Evelyn",
+        "task": "W1D2-1",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Evelyn",
+        "task": "W1D2-2",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Evelyn",
+        "task": "W1D2-3",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Evelyn",
+        "task": "W1D2-4",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Evelyn",
+        "task": "W1D2-5",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Evelyn",
+        "task": "W1D3-1",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Evelyn",
+        "task": "W1D3-2",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Evelyn",
+        "task": "W1D3-4",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Evelyn",
+        "task": "W1D3-5",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Evelyn",
+        "task": "W1D3 - Project - Guess-the-number",
+        "hard": 5,
+        "fun": 5
+    },
+    {
+        "name": "Evelyn",
+        "task": "W1D4-1",
+        "hard": 4,
+        "fun": 5
+    },
+    {
+        "name": "Evelyn",
+        "task": "W1D4 - Project - Kleurentoggle",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Evelyn",
+        "task": "W1D5 - Project - Galgje",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Evelyn",
+        "task": "W2D1-1",
+        "hard": 1,
+        "fun": 5
+    },
+    {
+        "name": "Evelyn",
+        "task": "W2D1-2",
+        "hard": 2,
+        "fun": 5
+    },
+    {
+        "name": "Evelyn",
+        "task": "W2D2-1",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Evelyn",
+        "task": "W2D2-2",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Evelyn",
+        "task": "W2D2-3",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Evelyn",
+        "task": "W2D3-1",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Evelyn",
+        "task": "W2D3-2",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Evelyn",
+        "task": "W2D3-3",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Evelyn",
+        "task": "W2D4-1",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Evelyn",
+        "task": "W2D4-2",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Evelyn",
+        "task": "W2D4-3",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Evelyn",
+        "task": "W2D5 - Project - Filmzoeker",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Evelyn",
+        "task": "W3D1-1",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Evelyn",
+        "task": "W3D1-2",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Evelyn",
+        "task": "W3D1-3",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Evelyn",
+        "task": "W3D1-4",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Evelyn",
+        "task": "W3D2-1",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Evelyn",
+        "task": "W3D2-2",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Evelyn",
+        "task": "W3D2-3",
+        "hard": 3,
+        "fun": 5
+    },
+    {
+        "name": "Evelyn",
+        "task": "W3D3-1",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Evelyn",
+        "task": "W3D3-2",
+        "hard": 4,
+        "fun": 5
+    },
+    {
+        "name": "Evelyn",
+        "task": "W3D3-3",
+        "hard": 3,
+        "fun": 5
+    },
+    {
+        "name": "Evelyn",
+        "task": "W3D3-4",
+        "hard": 4,
+        "fun": 5
+    },
+    {
+        "name": "Evelyn",
+        "task": "W3D4-1",
+        "hard": 5,
+        "fun": 5
+    },
+    {
+        "name": "Evelyn",
+        "task": "W3D4-2",
+        "hard": 1,
+        "fun": 5
+    },
+    {
+        "name": "Evelyn",
+        "task": "W3D5 - Project - Todo-List",
+        "hard": 2,
+        "fun": 5
+    },
+    {
+        "name": "Evelyn",
+        "task": "W4D2-1",
+        "hard": 1,
+        "fun": 5
+    },
+    {
+        "name": "Evelyn",
+        "task": "W4D2-2",
+        "hard": 1,
+        "fun": 5
+    },
+    {
+        "name": "Evelyn",
+        "task": "W4D2-3",
+        "hard": 1,
+        "fun": 5
+    },
+    {
+        "name": "Evelyn",
+        "task": "W4D2-4",
+        "hard": 1,
+        "fun": 5
+    },
+    {
+        "name": "Evelyn",
+        "task": "W4D3-1",
+        "hard": 1,
+        "fun": 5
+    },
+    {
+        "name": "Evelyn",
+        "task": "W4D3-2",
+        "hard": 1,
+        "fun": 5
+    },
+    {
+        "name": "Evelyn",
+        "task": "W4D3-3",
+        "hard": 1,
+        "fun": 5
+    },
+    {
+        "name": "Evelyn",
+        "task": "W4D3-4",
+        "hard": 1,
+        "fun": 5
+    },
+    {
+        "name": "Evelyn",
+        "task": "W4D3-5",
+        "hard": 1,
+        "fun": 5
+    },
+    {
+        "name": "Evelyn",
+        "task": "W4D3 - Project - Next-Level CSS",
+        "hard": 1,
+        "fun": 5
+    },
+    {
+        "name": "Evelyn",
+        "task": "W5D4-1",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Evelyn",
+        "task": "W5D5 - Project - Lil_Playlist",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Evelyn",
+        "task": "W6D1-1",
+        "hard": 5,
+        "fun": 5
+    },
+    {
+        "name": "Evelyn",
+        "task": "W6D2-1",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Evelyn",
+        "task": "W6D2 - Project - Eindopdracht",
+        "hard": 5,
+        "fun": 5
+    },
+    {
+        "name": "Aranka",
+        "task": "SCRUM",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Aranka",
+        "task": "W1D1-1",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Aranka",
+        "task": "W1D2-1",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Aranka",
+        "task": "W1D2-2",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Aranka",
+        "task": "W1D2-3",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Aranka",
+        "task": "W1D2-4",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Aranka",
+        "task": "W1D2-5",
+        "hard": 4,
+        "fun": 2
+    },
+    {
+        "name": "Aranka",
+        "task": "W1D3-1",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Aranka",
+        "task": "W1D3-2",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Aranka",
+        "task": "W1D3-4",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Aranka",
+        "task": "W1D3-5",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Aranka",
+        "task": "W1D3 - Project - Guess-the-number",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Aranka",
+        "task": "W1D4-1",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Aranka",
+        "task": "W1D4 - Project - Kleurentoggle",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Aranka",
+        "task": "W1D5 - Project - Galgje",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Aranka",
+        "task": "W2D1-1",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Aranka",
+        "task": "W2D1-2",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Aranka",
+        "task": "W2D2-1",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Aranka",
+        "task": "W2D2-2",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Aranka",
+        "task": "W2D2-3",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Aranka",
+        "task": "W2D3-1",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Aranka",
+        "task": "W2D3-2",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Aranka",
+        "task": "W2D3-3",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Aranka",
+        "task": "W2D4-1",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Aranka",
+        "task": "W2D4-2",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Aranka",
+        "task": "W2D4-3",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Aranka",
+        "task": "W2D5 - Project - Filmzoeker",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Aranka",
+        "task": "W3D1-1",
+        "hard": 4,
+        "fun": 2
+    },
+    {
+        "name": "Aranka",
+        "task": "W3D1-2",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Aranka",
+        "task": "W3D1-3",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Aranka",
+        "task": "W3D1-4",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Aranka",
+        "task": "W3D2-1",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Aranka",
+        "task": "W3D2-2",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Aranka",
+        "task": "W3D2-3",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Aranka",
+        "task": "W3D3-1",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Aranka",
+        "task": "W3D3-2",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Aranka",
+        "task": "W3D3-3",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Aranka",
+        "task": "W3D3-4",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Aranka",
+        "task": "W3D4-1",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Aranka",
+        "task": "W3D4-2",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Aranka",
+        "task": "W3D5 - Project - Todo-List",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Aranka",
+        "task": "W4D2-1",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Aranka",
+        "task": "W4D2-2",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Aranka",
+        "task": "W4D2-3",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Aranka",
+        "task": "W4D2-4",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Aranka",
+        "task": "W4D3-1",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Aranka",
+        "task": "W4D3-2",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Aranka",
+        "task": "W4D3-3",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Aranka",
+        "task": "W4D3-4",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Aranka",
+        "task": "W4D3-5",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Aranka",
+        "task": "W4D3 - Project - Next-Level CSS",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Aranka",
+        "task": "W5D4-1",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Aranka",
+        "task": "W5D5 - Project - Lil_Playlist",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Aranka",
+        "task": "W6D1-1",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Aranka",
+        "task": "W6D2-1",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Aranka",
+        "task": "W6D2 - Project - Eindopdracht",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Floris",
+        "task": "SCRUM",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Floris",
+        "task": "W1D1-1",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Floris",
+        "task": "W1D2-1",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Floris",
+        "task": "W1D2-2",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Floris",
+        "task": "W1D2-3",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Floris",
+        "task": "W1D2-4",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Floris",
+        "task": "W1D2-5",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Floris",
+        "task": "W1D3-1",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Floris",
+        "task": "W1D3-2",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Floris",
+        "task": "W1D3-4",
+        "hard": 4,
+        "fun": 2
+    },
+    {
+        "name": "Floris",
+        "task": "W1D3-5",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Floris",
+        "task": "W1D3 - Project - Guess-the-number",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Floris",
+        "task": "W1D4-1",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Floris",
+        "task": "W1D4 - Project - Kleurentoggle",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Floris",
+        "task": "W1D5 - Project - Galgje",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Floris",
+        "task": "W2D1-1",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Floris",
+        "task": "W2D1-2",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Floris",
+        "task": "W2D2-1",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Floris",
+        "task": "W2D2-2",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Floris",
+        "task": "W2D2-3",
+        "hard": 4,
+        "fun": 2
+    },
+    {
+        "name": "Floris",
+        "task": "W2D3-1",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Floris",
+        "task": "W2D3-2",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Floris",
+        "task": "W2D3-3",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Floris",
+        "task": "W2D4-1",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Floris",
+        "task": "W2D4-2",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Floris",
+        "task": "W2D4-3",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Floris",
+        "task": "W2D5 - Project - Filmzoeker",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Floris",
+        "task": "W3D1-1",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Floris",
+        "task": "W3D1-2",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Floris",
+        "task": "W3D1-3",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Floris",
+        "task": "W3D1-4",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Floris",
+        "task": "W3D2-1",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Floris",
+        "task": "W3D2-2",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Floris",
+        "task": "W3D2-3",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Floris",
+        "task": "W3D3-1",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Floris",
+        "task": "W3D3-2",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Floris",
+        "task": "W3D3-3",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Floris",
+        "task": "W3D3-4",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Floris",
+        "task": "W3D4-1",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Floris",
+        "task": "W3D4-2",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Floris",
+        "task": "W3D5 - Project - Todo-List",
+        "hard": 4,
+        "fun": 2
+    },
+    {
+        "name": "Floris",
+        "task": "W4D2-1",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Floris",
+        "task": "W4D2-2",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Floris",
+        "task": "W4D2-3",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Floris",
+        "task": "W4D2-4",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Floris",
+        "task": "W4D3-1",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Floris",
+        "task": "W4D3-2",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Floris",
+        "task": "W4D3-3",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Floris",
+        "task": "W4D3-4",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Floris",
+        "task": "W4D3-5",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Floris",
+        "task": "W4D3 - Project - Next-Level CSS",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Floris",
+        "task": "W5D4-1",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Floris",
+        "task": "W5D5 - Project - Lil_Playlist",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Floris",
+        "task": "W6D1-1",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Floris",
+        "task": "W6D2-1",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Floris",
+        "task": "W6D2 - Project - Eindopdracht",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Hector",
+        "task": "SCRUM",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Hector",
+        "task": "W1D1-1",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Hector",
+        "task": "W1D2-1",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Hector",
+        "task": "W1D2-2",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Hector",
+        "task": "W1D2-3",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Hector",
+        "task": "W1D2-4",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Hector",
+        "task": "W1D2-5",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Hector",
+        "task": "W1D3-1",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Hector",
+        "task": "W1D3-2",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Hector",
+        "task": "W1D3-4",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Hector",
+        "task": "W1D3-5",
+        "hard": 4,
+        "fun": 2
+    },
+    {
+        "name": "Hector",
+        "task": "W1D3 - Project - Guess-the-number",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Hector",
+        "task": "W1D4-1",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Hector",
+        "task": "W1D4 - Project - Kleurentoggle",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Hector",
+        "task": "W1D5 - Project - Galgje",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Hector",
+        "task": "W2D1-1",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Hector",
+        "task": "W2D1-2",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Hector",
+        "task": "W2D2-1",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Hector",
+        "task": "W2D2-2",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Hector",
+        "task": "W2D2-3",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Hector",
+        "task": "W2D3-1",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Hector",
+        "task": "W2D3-2",
+        "hard": 4,
+        "fun": 2
+    },
+    {
+        "name": "Hector",
+        "task": "W2D3-3",
+        "hard": 4,
+        "fun": 2
+    },
+    {
+        "name": "Hector",
+        "task": "W2D4-1",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Hector",
+        "task": "W2D4-2",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Hector",
+        "task": "W2D4-3",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Hector",
+        "task": "W2D5 - Project - Filmzoeker",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Hector",
+        "task": "W3D1-1",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Hector",
+        "task": "W3D1-2",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Hector",
+        "task": "W3D1-3",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Hector",
+        "task": "W3D1-4",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Hector",
+        "task": "W3D2-1",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Hector",
+        "task": "W3D2-2",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Hector",
+        "task": "W3D2-3",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Hector",
+        "task": "W3D3-1",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Hector",
+        "task": "W3D3-2",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Hector",
+        "task": "W3D3-3",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Hector",
+        "task": "W3D3-4",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Hector",
+        "task": "W3D4-1",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Hector",
+        "task": "W3D4-2",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Hector",
+        "task": "W3D5 - Project - Todo-List",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Hector",
+        "task": "W4D2-1",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Hector",
+        "task": "W4D2-2",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Hector",
+        "task": "W4D2-3",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Hector",
+        "task": "W4D2-4",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Hector",
+        "task": "W4D3-1",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Hector",
+        "task": "W4D3-2",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Hector",
+        "task": "W4D3-3",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Hector",
+        "task": "W4D3-4",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Hector",
+        "task": "W4D3-5",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Hector",
+        "task": "W4D3 - Project - Next-Level CSS",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Hector",
+        "task": "W5D4-1",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Hector",
+        "task": "W5D5 - Project - Lil_Playlist",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Hector",
+        "task": "W6D1-1",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Hector",
+        "task": "W6D2-1",
+        "hard": 4,
+        "fun": 2
+    },
+    {
+        "name": "Hector",
+        "task": "W6D2 - Project - Eindopdracht",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Martina",
+        "task": "SCRUM",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Martina",
+        "task": "W1D1-1",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Martina",
+        "task": "W1D2-1",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Martina",
+        "task": "W1D2-2",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Martina",
+        "task": "W1D2-3",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Martina",
+        "task": "W1D2-4",
+        "hard": 4,
+        "fun": 2
+    },
+    {
+        "name": "Martina",
+        "task": "W1D2-5",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Martina",
+        "task": "W1D3-1",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Martina",
+        "task": "W1D3-2",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Martina",
+        "task": "W1D3-4",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Martina",
+        "task": "W1D3-5",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Martina",
+        "task": "W1D3 - Project - Guess-the-number",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Martina",
+        "task": "W1D4-1",
+        "hard": 4,
+        "fun": 2
+    },
+    {
+        "name": "Martina",
+        "task": "W1D4 - Project - Kleurentoggle",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Martina",
+        "task": "W1D5 - Project - Galgje",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Martina",
+        "task": "W2D1-1",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Martina",
+        "task": "W2D1-2",
+        "hard": 4,
+        "fun": 2
+    },
+    {
+        "name": "Martina",
+        "task": "W2D2-1",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Martina",
+        "task": "W2D2-2",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Martina",
+        "task": "W2D2-3",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Martina",
+        "task": "W2D3-1",
+        "hard": 4,
+        "fun": 2
+    },
+    {
+        "name": "Martina",
+        "task": "W2D3-2",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Martina",
+        "task": "W2D3-3",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Martina",
+        "task": "W2D4-1",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Martina",
+        "task": "W2D4-2",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Martina",
+        "task": "W2D4-3",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Martina",
+        "task": "W2D5 - Project - Filmzoeker",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Martina",
+        "task": "W3D1-1",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Martina",
+        "task": "W3D1-2",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Martina",
+        "task": "W3D1-3",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Martina",
+        "task": "W3D1-4",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Martina",
+        "task": "W3D2-1",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Martina",
+        "task": "W3D2-2",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Martina",
+        "task": "W3D2-3",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Martina",
+        "task": "W3D3-1",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Martina",
+        "task": "W3D3-2",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Martina",
+        "task": "W3D3-3",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Martina",
+        "task": "W3D3-4",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Martina",
+        "task": "W3D4-1",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Martina",
+        "task": "W3D4-2",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Martina",
+        "task": "W3D5 - Project - Todo-List",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Martina",
+        "task": "W4D2-1",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Martina",
+        "task": "W4D2-2",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Martina",
+        "task": "W4D2-3",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Martina",
+        "task": "W4D2-4",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Martina",
+        "task": "W4D3-1",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Martina",
+        "task": "W4D3-2",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Martina",
+        "task": "W4D3-3",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Martina",
+        "task": "W4D3-4",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Martina",
+        "task": "W4D3-5",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Martina",
+        "task": "W4D3 - Project - Next-Level CSS",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Martina",
+        "task": "W5D4-1",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Martina",
+        "task": "W5D5 - Project - Lil_Playlist",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Martina",
+        "task": "W6D1-1",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Martina",
+        "task": "W6D2-1",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Martina",
+        "task": "W6D2 - Project - Eindopdracht",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Maurits",
+        "task": "SCRUM",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Maurits",
+        "task": "W1D1-1",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Maurits",
+        "task": "W1D2-1",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Maurits",
+        "task": "W1D2-2",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Maurits",
+        "task": "W1D2-3",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Maurits",
+        "task": "W1D2-4",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Maurits",
+        "task": "W1D2-5",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Maurits",
+        "task": "W1D3-1",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Maurits",
+        "task": "W1D3-2",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Maurits",
+        "task": "W1D3-4",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Maurits",
+        "task": "W1D3-5",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Maurits",
+        "task": "W1D3 - Project - Guess-the-number",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Maurits",
+        "task": "W1D4-1",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Maurits",
+        "task": "W1D4 - Project - Kleurentoggle",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Maurits",
+        "task": "W1D5 - Project - Galgje",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Maurits",
+        "task": "W2D1-1",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Maurits",
+        "task": "W2D1-2",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Maurits",
+        "task": "W2D2-1",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Maurits",
+        "task": "W2D2-2",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Maurits",
+        "task": "W2D2-3",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Maurits",
+        "task": "W2D3-1",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Maurits",
+        "task": "W2D3-2",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Maurits",
+        "task": "W2D3-3",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Maurits",
+        "task": "W2D4-1",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Maurits",
+        "task": "W2D4-2",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Maurits",
+        "task": "W2D4-3",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Maurits",
+        "task": "W2D5 - Project - Filmzoeker",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Maurits",
+        "task": "W3D1-1",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Maurits",
+        "task": "W3D1-2",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Maurits",
+        "task": "W3D1-3",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Maurits",
+        "task": "W3D1-4",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Maurits",
+        "task": "W3D2-1",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Maurits",
+        "task": "W3D2-2",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Maurits",
+        "task": "W3D2-3",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Maurits",
+        "task": "W3D3-1",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Maurits",
+        "task": "W3D3-2",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Maurits",
+        "task": "W3D3-3",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Maurits",
+        "task": "W3D3-4",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Maurits",
+        "task": "W3D4-1",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Maurits",
+        "task": "W3D4-2",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Maurits",
+        "task": "W3D5 - Project - Todo-List",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Maurits",
+        "task": "W4D2-1",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Maurits",
+        "task": "W4D2-2",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Maurits",
+        "task": "W4D2-3",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Maurits",
+        "task": "W4D2-4",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Maurits",
+        "task": "W4D3-1",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Maurits",
+        "task": "W4D3-2",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Maurits",
+        "task": "W4D3-3",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Maurits",
+        "task": "W4D3-4",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Maurits",
+        "task": "W4D3-5",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Maurits",
+        "task": "W4D3 - Project - Next-Level CSS",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Maurits",
+        "task": "W5D4-1",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Maurits",
+        "task": "W5D5 - Project - Lil_Playlist",
+        "hard": 4,
+        "fun": 2
+    },
+    {
+        "name": "Maurits",
+        "task": "W6D1-1",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Maurits",
+        "task": "W6D2-1",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Maurits",
+        "task": "W6D2 - Project - Eindopdracht",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Rahima",
+        "task": "SCRUM",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Rahima",
+        "task": "W1D1-1",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Rahima",
+        "task": "W1D2-1",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Rahima",
+        "task": "W1D2-2",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Rahima",
+        "task": "W1D2-3",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Rahima",
+        "task": "W1D2-4",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Rahima",
+        "task": "W1D2-5",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Rahima",
+        "task": "W1D3-1",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Rahima",
+        "task": "W1D3-2",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Rahima",
+        "task": "W1D3-4",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Rahima",
+        "task": "W1D3-5",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Rahima",
+        "task": "W1D3 - Project - Guess-the-number",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Rahima",
+        "task": "W1D4-1",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Rahima",
+        "task": "W1D4 - Project - Kleurentoggle",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Rahima",
+        "task": "W1D5 - Project - Galgje",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Rahima",
+        "task": "W2D1-1",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Rahima",
+        "task": "W2D1-2",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Rahima",
+        "task": "W2D2-1",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Rahima",
+        "task": "W2D2-2",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Rahima",
+        "task": "W2D2-3",
+        "hard": 4,
+        "fun": 2
+    },
+    {
+        "name": "Rahima",
+        "task": "W2D3-1",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Rahima",
+        "task": "W2D3-2",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Rahima",
+        "task": "W2D3-3",
+        "hard": 4,
+        "fun": 2
+    },
+    {
+        "name": "Rahima",
+        "task": "W2D4-1",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Rahima",
+        "task": "W2D4-2",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Rahima",
+        "task": "W2D4-3",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Rahima",
+        "task": "W2D5 - Project - Filmzoeker",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Rahima",
+        "task": "W3D1-1",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Rahima",
+        "task": "W3D1-2",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Rahima",
+        "task": "W3D1-3",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Rahima",
+        "task": "W3D1-4",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Rahima",
+        "task": "W3D2-1",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Rahima",
+        "task": "W3D2-2",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Rahima",
+        "task": "W3D2-3",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Rahima",
+        "task": "W3D3-1",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Rahima",
+        "task": "W3D3-2",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Rahima",
+        "task": "W3D3-3",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Rahima",
+        "task": "W3D3-4",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Rahima",
+        "task": "W3D4-1",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Rahima",
+        "task": "W3D4-2",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Rahima",
+        "task": "W3D5 - Project - Todo-List",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Rahima",
+        "task": "W4D2-1",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Rahima",
+        "task": "W4D2-2",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Rahima",
+        "task": "W4D2-3",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Rahima",
+        "task": "W4D2-4",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Rahima",
+        "task": "W4D3-1",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Rahima",
+        "task": "W4D3-2",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Rahima",
+        "task": "W4D3-3",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Rahima",
+        "task": "W4D3-4",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Rahima",
+        "task": "W4D3-5",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Rahima",
+        "task": "W4D3 - Project - Next-Level CSS",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Rahima",
+        "task": "W5D4-1",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Rahima",
+        "task": "W5D5 - Project - Lil_Playlist",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Rahima",
+        "task": "W6D1-1",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Rahima",
+        "task": "W6D2-1",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Rahima",
+        "task": "W6D2 - Project - Eindopdracht",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Sandra",
+        "task": "SCRUM",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Sandra",
+        "task": "W1D1-1",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Sandra",
+        "task": "W1D2-1",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Sandra",
+        "task": "W1D2-2",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Sandra",
+        "task": "W1D2-3",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Sandra",
+        "task": "W1D2-4",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Sandra",
+        "task": "W1D2-5",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Sandra",
+        "task": "W1D3-1",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Sandra",
+        "task": "W1D3-2",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Sandra",
+        "task": "W1D3-4",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Sandra",
+        "task": "W1D3-5",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Sandra",
+        "task": "W1D3 - Project - Guess-the-number",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Sandra",
+        "task": "W1D4-1",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Sandra",
+        "task": "W1D4 - Project - Kleurentoggle",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Sandra",
+        "task": "W1D5 - Project - Galgje",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Sandra",
+        "task": "W2D1-1",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Sandra",
+        "task": "W2D1-2",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Sandra",
+        "task": "W2D2-1",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Sandra",
+        "task": "W2D2-2",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Sandra",
+        "task": "W2D2-3",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Sandra",
+        "task": "W2D3-1",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Sandra",
+        "task": "W2D3-2",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Sandra",
+        "task": "W2D3-3",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Sandra",
+        "task": "W2D4-1",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Sandra",
+        "task": "W2D4-2",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Sandra",
+        "task": "W2D4-3",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Sandra",
+        "task": "W2D5 - Project - Filmzoeker",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Sandra",
+        "task": "W3D1-1",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Sandra",
+        "task": "W3D1-2",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Sandra",
+        "task": "W3D1-3",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Sandra",
+        "task": "W3D1-4",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Sandra",
+        "task": "W3D2-1",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Sandra",
+        "task": "W3D2-2",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Sandra",
+        "task": "W3D2-3",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Sandra",
+        "task": "W3D3-1",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Sandra",
+        "task": "W3D3-2",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Sandra",
+        "task": "W3D3-3",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Sandra",
+        "task": "W3D3-4",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Sandra",
+        "task": "W3D4-1",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Sandra",
+        "task": "W3D4-2",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Sandra",
+        "task": "W3D5 - Project - Todo-List",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Sandra",
+        "task": "W4D2-1",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Sandra",
+        "task": "W4D2-2",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Sandra",
+        "task": "W4D2-3",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Sandra",
+        "task": "W4D2-4",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Sandra",
+        "task": "W4D3-1",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Sandra",
+        "task": "W4D3-2",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Sandra",
+        "task": "W4D3-3",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Sandra",
+        "task": "W4D3-4",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Sandra",
+        "task": "W4D3-5",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Sandra",
+        "task": "W4D3 - Project - Next-Level CSS",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Sandra",
+        "task": "W5D4-1",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Sandra",
+        "task": "W5D5 - Project - Lil_Playlist",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Sandra",
+        "task": "W6D1-1",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Sandra",
+        "task": "W6D2-1",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Sandra",
+        "task": "W6D2 - Project - Eindopdracht",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Wietske",
+        "task": "SCRUM",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Wietske",
+        "task": "W1D1-1",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Wietske",
+        "task": "W1D2-1",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Wietske",
+        "task": "W1D2-2",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Wietske",
+        "task": "W1D2-3",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Wietske",
+        "task": "W1D2-4",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Wietske",
+        "task": "W1D2-5",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Wietske",
+        "task": "W1D3-1",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Wietske",
+        "task": "W1D3-2",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Wietske",
+        "task": "W1D3-4",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Wietske",
+        "task": "W1D3-5",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Wietske",
+        "task": "W1D3 - Project - Guess-the-number",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Wietske",
+        "task": "W1D4-1",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Wietske",
+        "task": "W1D4 - Project - Kleurentoggle",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Wietske",
+        "task": "W1D5 - Project - Galgje",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Wietske",
+        "task": "W2D1-1",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Wietske",
+        "task": "W2D1-2",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Wietske",
+        "task": "W2D2-1",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Wietske",
+        "task": "W2D2-2",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Wietske",
+        "task": "W2D2-3",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Wietske",
+        "task": "W2D3-1",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Wietske",
+        "task": "W2D3-2",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Wietske",
+        "task": "W2D3-3",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Wietske",
+        "task": "W2D4-1",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Wietske",
+        "task": "W2D4-2",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Wietske",
+        "task": "W2D4-3",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Wietske",
+        "task": "W2D5 - Project - Filmzoeker",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Wietske",
+        "task": "W3D1-1",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Wietske",
+        "task": "W3D1-2",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Wietske",
+        "task": "W3D1-3",
+        "hard": 4,
+        "fun": 2
+    },
+    {
+        "name": "Wietske",
+        "task": "W3D1-4",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Wietske",
+        "task": "W3D2-1",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Wietske",
+        "task": "W3D2-2",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Wietske",
+        "task": "W3D2-3",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Wietske",
+        "task": "W3D3-1",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Wietske",
+        "task": "W3D3-2",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Wietske",
+        "task": "W3D3-3",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Wietske",
+        "task": "W3D3-4",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Wietske",
+        "task": "W3D4-1",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Wietske",
+        "task": "W3D4-2",
+        "hard": 4,
+        "fun": 2
+    },
+    {
+        "name": "Wietske",
+        "task": "W3D5 - Project - Todo-List",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Wietske",
+        "task": "W4D2-1",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Wietske",
+        "task": "W4D2-2",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Wietske",
+        "task": "W4D2-3",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Wietske",
+        "task": "W4D2-4",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Wietske",
+        "task": "W4D3-1",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Wietske",
+        "task": "W4D3-2",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Wietske",
+        "task": "W4D3-3",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Wietske",
+        "task": "W4D3-4",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Wietske",
+        "task": "W4D3-5",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Wietske",
+        "task": "W4D3 - Project - Next-Level CSS",
+        "hard": 4,
+        "fun": 2
+    },
+    {
+        "name": "Wietske",
+        "task": "W5D4-1",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Wietske",
+        "task": "W5D5 - Project - Lil_Playlist",
+        "hard": 4,
+        "fun": 2
+    },
+    {
+        "name": "Wietske",
+        "task": "W6D1-1",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Wietske",
+        "task": "W6D2-1",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Wietske",
+        "task": "W6D2 - Project - Eindopdracht",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Storm",
+        "task": "SCRUM",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Storm",
+        "task": "W1D1-1",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Storm",
+        "task": "W1D2-1",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Storm",
+        "task": "W1D2-2",
+        "hard": 1,
+        "fun": 3
+    },
+    {
+        "name": "Storm",
+        "task": "W1D2-3",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Storm",
+        "task": "W1D2-4",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Storm",
+        "task": "W1D2-5",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Storm",
+        "task": "W1D3-1",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Storm",
+        "task": "W1D3-2",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Storm",
+        "task": "W1D3-4",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Storm",
+        "task": "W1D3-5",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Storm",
+        "task": "W1D3 - Project - Guess-the-number",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Storm",
+        "task": "W1D4-1",
+        "hard": 4,
+        "fun": 2
+    },
+    {
+        "name": "Storm",
+        "task": "W1D4 - Project - Kleurentoggle",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Storm",
+        "task": "W1D5 - Project - Galgje",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Storm",
+        "task": "W2D1-1",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Storm",
+        "task": "W2D1-2",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Storm",
+        "task": "W2D2-1",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Storm",
+        "task": "W2D2-2",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Storm",
+        "task": "W2D2-3",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Storm",
+        "task": "W2D3-1",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Storm",
+        "task": "W2D3-2",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Storm",
+        "task": "W2D3-3",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Storm",
+        "task": "W2D4-1",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Storm",
+        "task": "W2D4-2",
+        "hard": 4,
+        "fun": 3
+    },
+    {
+        "name": "Storm",
+        "task": "W2D4-3",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Storm",
+        "task": "W2D5 - Project - Filmzoeker",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Storm",
+        "task": "W3D1-1",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Storm",
+        "task": "W3D1-2",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Storm",
+        "task": "W3D1-3",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Storm",
+        "task": "W3D1-4",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Storm",
+        "task": "W3D2-1",
+        "hard": 1,
+        "fun": 4
+    },
+    {
+        "name": "Storm",
+        "task": "W3D2-2",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Storm",
+        "task": "W3D2-3",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Storm",
+        "task": "W3D3-1",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Storm",
+        "task": "W3D3-2",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Storm",
+        "task": "W3D3-3",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Storm",
+        "task": "W3D3-4",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Storm",
+        "task": "W3D4-1",
+        "hard": 2,
+        "fun": 4
+    },
+    {
+        "name": "Storm",
+        "task": "W3D4-2",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Storm",
+        "task": "W3D5 - Project - Todo-List",
+        "hard": 3,
+        "fun": 2
+    },
+    {
+        "name": "Storm",
+        "task": "W4D2-1",
+        "hard": 2,
+        "fun": 1
+    },
+    {
+        "name": "Storm",
+        "task": "W4D2-2",
+        "hard": 3,
+        "fun": 3
+    },
+    {
+        "name": "Storm",
+        "task": "W4D2-3",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Storm",
+        "task": "W4D2-4",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Storm",
+        "task": "W4D3-1",
+        "hard": 3,
+        "fun": 4
+    },
+    {
+        "name": "Storm",
+        "task": "W4D3-2",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Storm",
+        "task": "W4D3-3",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Storm",
+        "task": "W4D3-4",
+        "hard": 3,
+        "fun": 1
+    },
+    {
+        "name": "Storm",
+        "task": "W4D3-5",
+        "hard": 2,
+        "fun": 3
+    },
+    {
+        "name": "Storm",
+        "task": "W4D3 - Project - Next-Level CSS",
+        "hard": 4,
+        "fun": 1
+    },
+    {
+        "name": "Storm",
+        "task": "W5D4-1",
+        "hard": 2,
+        "fun": 2
+    },
+    {
+        "name": "Storm",
+        "task": "W5D5 - Project - Lil_Playlist",
+        "hard": 1,
+        "fun": 2
+    },
+    {
+        "name": "Storm",
+        "task": "W6D1-1",
+        "hard": 4,
+        "fun": 4
+    },
+    {
+        "name": "Storm",
+        "task": "W6D2-1",
+        "hard": 1,
+        "fun": 1
+    },
+    {
+        "name": "Storm",
+        "task": "W6D2 - Project - Eindopdracht",
+        "hard": 3,
+        "fun": 3
+    }
+]
